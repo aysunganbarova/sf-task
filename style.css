@@ -1,0 +1,27 @@
+.picture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.picture img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.picture img:hover{
+    cursor: pointer;
+
+}
+.wrapper{
+    text-align: center;
+}
+.word{
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.minute{
+    color: gray;
+}
